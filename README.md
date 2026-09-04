@@ -1,23 +1,23 @@
-# Vajira Constructions — Coursework Projects
+# Vajira Constructions — OOP \& DM
 
 Two coursework projects built around a shared theme: a database and a desktop application for a construction company called **"Vajira Constructions."**
 
 ## Contents
 
-* [`DM/`](./DM) — **Database Management** coursework
-* [`OOP/`](./OOP) — **Object Oriented Programming** coursework
+* **Database Management** coursework
+* **Object Oriented Programming** coursework
 
 \---
 
 ## DM — Database Management
 
-[`DM/vajira-constructions.sql`](./DM/vajira-constructions.sql)
+[vajira-constructions.sql`](./DM/vajira-constructions.sql)
 
 A SQL script that builds out the company's database: tables for departments, employees, managers, customers, projects, tasks, suppliers, and materials, along with sample data, queries, and role-based user permissions.
 
 ## OOP — Object Oriented Programming
 
-[`OOP/VajiraConstructions.java`](./OOP/VajiraConstructions.java)
+[VajiraConstructions.java`](./OOP/VajiraConstructions.java)
 
 A Java Swing desktop application modeling customer and employee interactions with the company's project/order workflow.
 
