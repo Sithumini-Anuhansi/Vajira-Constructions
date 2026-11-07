@@ -1,5 +1,7 @@
 # Vajira Constructions — OOP \& DM
 
+![Logo](logo.png)
+
 Two coursework projects built around a shared theme: a database and a desktop application for a construction company called **"Vajira Constructions."**
 
 ## Contents
